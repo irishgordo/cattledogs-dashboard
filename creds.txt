@@ -1,0 +1,6 @@
+access key:
+- token-d6qdb
+secret key:
+- v89l8vfj4w8nvpt2vqwk9lsmd4pf6m4c5xmspvbcbs6mzc7scf27s8
+Bearer Token:
+- token-d6qdb:v89l8vfj4w8nvpt2vqwk9lsmd4pf6m4c5xmspvbcbs6mzc7scf27s8
